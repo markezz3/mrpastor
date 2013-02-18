@@ -82,7 +82,7 @@
       <file leaf-file-name="index.gsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/main/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="267" column="39" selection-start="10911" selection-end="10916" vertical-scroll-proportion="0.3777174">
+            <state line="270" column="54" selection-start="11001" selection-end="11001" vertical-scroll-proportion="0.23913044">
               <folding />
             </state>
           </provider>
@@ -479,7 +479,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/main/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="267" column="39" selection-start="10911" selection-end="10916" vertical-scroll-proportion="0.3777174">
+        <state line="270" column="54" selection-start="11001" selection-end="11001" vertical-scroll-proportion="0.23913044">
           <folding />
         </state>
       </provider>

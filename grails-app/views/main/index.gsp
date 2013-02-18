@@ -270,7 +270,7 @@
         </div>
     </div>
 
-    <img src="${posts[0]?.image.uri}" alt="" style="max-height: 150px; width: auto;">
+    <img src="${posts[0]?.image?.uri}" alt="" style="max-height: 150px; width: auto;">
 
     <p>${posts[0]?.content}</p>
 
