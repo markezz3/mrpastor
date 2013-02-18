@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c3593c-8ffe-4735-8c05-c0433cfcd166" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/MrPastor/MainController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/MrPastor/MainController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/main/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/main/index.gsp" />
     </list>
     <ignored path="MrPastor.iws" />
@@ -83,7 +82,7 @@
       <file leaf-file-name="index.gsp" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/main/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="265" column="56" selection-start="10848" selection-end="10848" vertical-scroll-proportion="0.2853261">
+            <state line="267" column="39" selection-start="10911" selection-end="10916" vertical-scroll-proportion="0.3777174">
               <folding />
             </state>
           </provider>
@@ -480,7 +479,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/main/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="265" column="56" selection-start="10848" selection-end="10848" vertical-scroll-proportion="0.2853261">
+        <state line="267" column="39" selection-start="10911" selection-end="10916" vertical-scroll-proportion="0.3777174">
           <folding />
         </state>
       </provider>

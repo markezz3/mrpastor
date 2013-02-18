@@ -270,9 +270,9 @@
         </div>
     </div>
 
-    <img src="${posts[0].image.uri}" alt="" style="max-height: 150px; width: auto;">
+    <img src="${posts[0]?.image.uri}" alt="" style="max-height: 150px; width: auto;">
 
-    <p>${posts[0].content}</p>
+    <p>${posts[0]?.content}</p>
 
     <a href="8_single.html">Lee más</a>
 </div>
