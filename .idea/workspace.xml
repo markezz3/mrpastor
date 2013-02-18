@@ -2,195 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86c3593c-8ffe-4735-8c05-c0433cfcd166" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/img/lightbox/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/img/lightbox/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/Bitter-Bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/Bitter-Bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/Bitter-Bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/Bitter-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/BreeSerif-Regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/BreeSerif-Regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/BreeSerif-Regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/BreeSerif-Regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/League_Gothic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/League_Gothic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/League_Gothic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/League_Gothic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande_bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande_bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande_bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/font/lucida_grande_bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/book-table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box1-btm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box1-mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box1-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box2-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box3-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box4-end.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box9-bg-btm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box9-bg-mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/box9-bg-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/column2-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/column2-btm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/avatar-say1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/comment1-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/contact1-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/dish9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/gallery9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/lobster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/map1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/map2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/post1-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/post2-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider1-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider1-photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider6-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider6-photo2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_big_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_big_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_big_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_big_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_small_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_small_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_small_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/slider_small_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/team1-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/team2-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/team3-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/team4-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/team5-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/content/team6-photo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/data1-dot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/date-border-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/divid-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/divider1-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ft-box-brdr.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ft-box-btm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ft-box-mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ft-box-top.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ft-brd.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/hdr1-ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/hdr2-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/hdr2-ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/hdr4-ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-body-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-book-table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-box9-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-footer-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-hours-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-slider1-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-slider5-lft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-slider5-rt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-slider6-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/ipad-topbar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-book-table.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-hdr1-ribbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-headline-lft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-headline-rt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-headline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-hours-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-orm1-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-orm1-rt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-slider1-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/iphone-socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/lightbox/close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/lightbox/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/map-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/menu-cont-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/orm1-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/orm1-rt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/photo-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/shadow_divider.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider1-controls.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider1-frame.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider1-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider2-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider2-controls-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider2-link.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider2-photo-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider3-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider3-photo-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider4-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider5-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider6-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider6-control-lft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider6-control-mid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider6-control-rt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider6-frame.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider7-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider7-photo-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider8-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/slider8-photo-shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/socialicons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/sub-menu-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/img/top-bdy-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/com/MrPastor/User.groovy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/home_old.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/layouts/none.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/main/index.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/anythingslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/lightbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/nivo-slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/js/jQueryRotateCompressed.2.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/js/jquery.anythingslider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/js/jquery.arctext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/js/jquery.nivo.slider.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/template/js/lightbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MrPastor-grailsPlugins.iml" afterPath="$PROJECT_DIR$/MrPastor-grailsPlugins.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MrPastor.iml" afterPath="$PROJECT_DIR$/MrPastor.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application.properties" afterPath="$PROJECT_DIR$/application.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/com/MrPastor/MainController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/com/MrPastor/MainController.groovy" />
     </list>
     <ignored path="MrPastor.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -247,6 +62,49 @@
   <component name="FavoritesManager">
     <favorites_list name="MrPastor" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UrlMappings.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainController.groovy" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/MrPastor/MainController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="52" selection-start="177" selection-end="177" vertical-scroll-proportion="0.5902778">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.gsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="69" column="25" selection-start="3225" selection-end="3229" vertical-scroll-proportion="-21.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Post.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/domain/com/MrPastor/Post.groovy">
+          <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="32" selection-start="136" selection-end="136" vertical-scroll-proportion="-4.744186">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FindManager">
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="false" />
@@ -254,6 +112,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/grails-app/controllers/com/MrPastor/MainController.groovy" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
@@ -498,7 +363,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -511,7 +376,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.4980695" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960895" sideWeight="0.497426" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32947233" sideWeight="0.6703911" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17567568" sideWeight="0.6703911" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -520,7 +385,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967825" sideWeight="0.6703911" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32960895" sideWeight="0.497426" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32960895" sideWeight="0.497426" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -582,6 +447,39 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="3225" selection-end="3229" vertical-scroll-proportion="-21.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/com/MrPastor/Post.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="32" selection-start="136" selection-end="136" vertical-scroll-proportion="-4.744186">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="6" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/com/MrPastor/MainController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="52" selection-start="177" selection-end="177" vertical-scroll-proportion="0.5902778">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
   <component name="grailsSettings">
     <option name="map">
       <map>
@@ -589,7 +487,7 @@
           <value>
             <GrailsSettings>
               <option name="buildConfigCrc" value="1521526382" />
-              <option name="pluginDependenciesCrc" value="-1781623852" />
+              <option name="pluginDependenciesCrc" value="-963549848" />
               <option name="properties">
                 <map>
                   <entry key="grails.global.plugins.dir" value="C:\Users\Juanda\.grails\2.2.0\global-plugins" />
