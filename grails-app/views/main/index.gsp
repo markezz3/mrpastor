@@ -265,7 +265,7 @@
 
         <div class="clearfix"></div>
         <div class="dates">
-            <span class="data1">${posts[0].date}</span>
+            <span class="data1">${posts[0]?.date}</span>
             <span class="data2">22</span>
         </div>
     </div>
